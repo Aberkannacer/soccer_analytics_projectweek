@@ -183,20 +183,7 @@ python 08_scatter_defensive_actions.py
 
 ---
 
-## 📝 Suggestions
-
-- Modularize shared logic (e.g., possession filter, tracking cleaner)
-
-- Rename “rogue” for clarity if presenting to staff/analysts
-
-- Use consistent plotting styles for comparison clarity
-
-- Use image exports to include snapshots in match reports
-
----
-
 ## ✍️ Author
 
 **Adam Bakhmadov**, 2025
-
 _Data-driven tactical insights for team improvement._
