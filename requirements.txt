@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 annotated-types==0.7.0
 asttokens==3.0.0
 certifi==2025.1.31
@@ -69,11 +68,3 @@ tzdata==2025.2
 urllib3==2.3.0
 wcwidth==0.2.13
 wrapt==1.17.2
-=======
-socceraction===1.5.3
-pandas===2.2.3
-matplotsoccer===0.0.8
-multimethod===1.12
-matplotlib===3.10.0
-mplsoccer===1.4.0
->>>>>>> b3fbcf614b97e5dbb6e5b025a0ff3cf2ced92068
