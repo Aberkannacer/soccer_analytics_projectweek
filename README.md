@@ -1,5 +1,6 @@
 # OHL project week
-**The things we've worked are placed chaotically**
+**The items we've worked on are currently arranged in a non-structured way.**
+
 ## Code and Documentation
 /Knowlegde Portfolio/DocumentationTehVisualsAdam.md
 /Knowlegde Portfolio/TheVisualisationMade_Adam.ipynb
