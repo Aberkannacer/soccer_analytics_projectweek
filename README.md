@@ -1,4 +1,18 @@
 # OHL project week
+**The things we've worked are placed chaotically**
+## Code and Documentation
+/Knowlegde Portfolio/DocumentationTehVisualsAdam.md
+/Knowlegde Portfolio/TheVisualisationMade_Adam.ipynb
+
+/Documentation
+/Heatmap_draw
+/Heatmap_losing
+/Heatmap_winning
+
+## Powerpoint
+/team 5 defensive.pptx
+
+
 
 # How to Fork and Collaborate on This Repository
 
