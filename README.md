@@ -3,6 +3,7 @@
 
 ## Code and Documentation
 `/Knowlegde Portfolio/DocumentationTehVisualsAdam.md`
+
 `/Knowlegde Portfolio/TheVisualisationMade_Adam.ipynb`
 
 `/Documentation`
