@@ -2,16 +2,16 @@
 **The items we've worked on are currently arranged in a non-structured way.**
 
 ## Code and Documentation
-`/Knowlegde Portfolio/DocumentationTehVisualsAdam.md
-`/Knowlegde Portfolio/TheVisualisationMade_Adam.ipynb
+`/Knowlegde Portfolio/DocumentationTehVisualsAdam.md`
+`/Knowlegde Portfolio/TheVisualisationMade_Adam.ipynb`
 
-`/Documentation
-`/Heatmap_draw
-`/Heatmap_losing
-`/Heatmap_winning
+`/Documentation`
+`/Heatmap_draw`
+`/Heatmap_losing`
+`/Heatmap_winning`
 
 ## Powerpoint
-`/team 5 defensive.pptx
+`/team 5 defensive.pptx`
 
 
 
